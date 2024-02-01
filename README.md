@@ -2,4 +2,4 @@
 
 
 پروژه‌ی پیش‌بینی شاخص کل بورس با استفاده از ماشین لرنینگ
-/assets/output.png
+./images/output.png
